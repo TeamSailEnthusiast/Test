@@ -1,6 +1,10 @@
 {
-  "contributors": "..",
+  "contributors": "Colin",
+  ]
   "message": "We require everyone to sign the CLA before contributing to this project. Please contact TeamSailEnthusiast",
+  ]
   "label": "cla-signed",
+  ]
   "recheckComment": "..."
+  ]
 }
